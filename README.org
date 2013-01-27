@@ -1,1 +1,8 @@
-* SDRKIT - Software defined radio software kit for Linux.
+* SDRKIT
+  Software defined radio for Linux.
+** No commitment required
+   Install Linux on an USB Drive, boot it on your Mac, Windows,
+   or Linux machine only when you need it.
+** GNU Radio based
+   Get access to world class open source software for radio.
+
